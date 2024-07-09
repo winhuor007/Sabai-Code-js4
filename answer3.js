@@ -1,3 +1,6 @@
+// Given an array of user objects which include property name and age,
+// use the `map` method to create a new array that contains just the names of the users
+
 const users = [
   { name: "Alice", age: 17 },
   { name: "Bob", age: 22 },
